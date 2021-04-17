@@ -1,0 +1,16 @@
+.theme-cyan .menu>ul>li>ul.normal-sub>li a:hover,.theme-cyan .menu>ul>li>ul>li>ul>li a:hover{background-color:#01d8da}
+.theme-cyan.sidebar-collapse .navbar-collapse:before{background-color:#00cfd1}
+.theme-cyan .btn-primary{background:#00cfd1; font-weight: 600; font-family: montserrat;}
+.theme-cyan .btn-primary:active,.theme-cyan .btn-primary:hover,.theme-cyan .btn-primary:focus{background:#01d8da}
+.theme-cyan .btn-primary.btn-simple{border-color:#00cfd1;color:#00cfd1;background:transparent}
+.theme-cyan .block-header h2{color:#fff}.theme-cyan .block-header h2 small{color:#fff}
+.theme-cyan section.content:before{background-color:#01d8da}
+.theme-cyan .navbar,.theme-cyan .page-loader-wrapper{background:#01d8da}
+.theme-cyan .bars{color:#fff}
+.theme-cyan .sidebar .menu .list li.active{background-color:transparent}
+.theme-cyan .sidebar .menu .list li.active>:first-child i,.theme-cyan .sidebar .menu .list li.active>:first-child span{color:#00cfd1}
+.theme-cyan .sidebar .menu .list a:hover{color:#00cfd1}
+.theme-cyan .checkbox input[type="checkbox"]:checked+label::after{border:1px solid #00cfd1}
+.theme-cyan .nav-tabs .nav-link.active{border:1px solid #00cfd1 !important}
+.theme-cyan .card .header h2:before{background:#FFF}
+.theme-cyan .card .header h2 strong{color:#00cfd1}
